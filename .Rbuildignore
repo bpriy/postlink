@@ -12,3 +12,4 @@
 ^vignettes/articles$
 ^data-raw$
 ^notebooks$
+^benchmarks$
